@@ -9,7 +9,7 @@ We will need to have these packages installed:
 
 Firstly, we need to define messages which are asked by user and their intentions, along with some responses.
 
-# The next step is to import the libraries.
+## The next step is to import the libraries.
 
 * Numpy for data manipulation
 * Keras for importing models, tokenizers and encoders
